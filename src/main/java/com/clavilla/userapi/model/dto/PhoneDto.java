@@ -18,8 +18,8 @@ public class PhoneDto {
     private String number;
 
     @JsonProperty("citycode")
-    private String citycode;
+    private String cityCode;
 
-    @JsonProperty("contrycode")
-    private String contrycode;
+    @JsonProperty("countrycode")
+    private String countryCode;
 }
